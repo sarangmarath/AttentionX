@@ -32,7 +32,8 @@ python app.py
 http://localhost:5000
 
 ## Demo Video
-[Click here to watch the demo](#)
+[https://drive.google.com/file/d/1GFgC1mLWIiYz4TrqPHUV1ofhEO_LdMC7/view?usp=sharing](#)
+https://drive.google.com/file/d/1GFgC1mLWIiYz4TrqPHUV1ofhEO_LdMC7/view?usp=sharing
 
 ## Built for
 AttentionX Hackathon by UnsaidTalks
