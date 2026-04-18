@@ -32,7 +32,6 @@ python app.py
 http://localhost:5000
 
 ## Demo Video
-[https://drive.google.com/file/d/1GFgC1mLWIiYz4TrqPHUV1ofhEO_LdMC7/view?usp=sharing](#)
 https://drive.google.com/file/d/1GFgC1mLWIiYz4TrqPHUV1ofhEO_LdMC7/view?usp=sharing
 
 ## Built for
